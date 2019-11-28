@@ -8,20 +8,25 @@
 <img src="images/gloriafood.png?raw=true"/>
 
 ---
-[TRVL](https://trvl.com/)
-<img src="images/trvl.png?raw=true"/>
+[nestenn](https://nestenn.com/)
+<img src="images/nestenn.png?raw=true"/>
 
 ---
-[bluemercury](https://bluemercury.com/)
-<img src="images/bluemercury.png?raw=true"/>
+[beroomers](https://www.beroomers.com/)
+<img src="images/beroomers.png?raw=true"/>
+
+---
+[fishtriper](https://www.fishtripr.com/)
+<img src="images/fishtriper.png?raw=true"/>
 
 ---
 
 ### Mobile app Development
 
-- [Tally Dating](https://apps.apple.com/us/app/tally-dating/id1253948176)
-- [DatingSphere - Get Introduced](https://apps.apple.com/us/app/datingsphere-get-introduced/id1315845761)
-- [Tabuu : Swingers LifeStyle App](https://apps.apple.com/us/app/tabuu-swingers-lifestyle-app/id1366352639)
+- [Weight Loss Fitness by Verv](https://apps.apple.com/us/app/weight-loss-fitness-by-verv/id1215301573)
+- [Nike Training Club](https://apps.apple.com/us/app/nike-training-club/id301521403)
+- [Ritzy - Elite Dating Singles](https://apps.apple.com/us/app/ritzy-elite-dating-singles/id1369461375)
+- [LetzChat Dating](https://apps.apple.com/us/app/letzchat-dating-meet-more-singles-the-fun-way/id1212065169)
 
 ---
 
