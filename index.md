@@ -4,26 +4,24 @@
 
 ### Web Development
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Gloria Food](https://www.gloriafood.com/)
+<img src="images/gloriafood.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[TRVL](https://trvl.com/)
+<img src="images/trvl.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[bluemercury](https://bluemercury.com/)
+<img src="images/bluemercury.png?raw=true"/>
 
 ---
 
 ### Mobile app Development
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Tally Dating](https://apps.apple.com/us/app/tally-dating/id1253948176)
+- [DatingSphere - Get Introduced](https://apps.apple.com/us/app/datingsphere-get-introduced/id1315845761)
+- [Tabuu : Swingers LifeStyle App](https://apps.apple.com/us/app/tabuu-swingers-lifestyle-app/id1366352639)
 
 ---
 
